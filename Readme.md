@@ -6,6 +6,7 @@ Irei criar um projeto onde irá acontecer cadastros de séries
 *2.* Utilização de classes abstratas.
 *3.* Utilização de interfaces.
 
+
 *CRUD*
 *C*reate / Criar
 *R*eaad / Ler
