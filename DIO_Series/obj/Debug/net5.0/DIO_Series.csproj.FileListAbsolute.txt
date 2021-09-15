@@ -1,0 +1,5 @@
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO_Series.csproj.AssemblyReference.cache
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO_Series.AssemblyInfoInputs.cache
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO_Series.AssemblyInfo.cs
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO_Series.csproj.CoreCompileInputs.cache

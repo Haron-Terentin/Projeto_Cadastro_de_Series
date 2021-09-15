@@ -8,3 +8,8 @@ C:\Users\hterentin\Proj\Git\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5
 C:\Users\hterentin\Proj\Git\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
 C:\Users\hterentin\Proj\Git\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
 C:\Users\hterentin\Proj\Git\Projeto_Cadastro_de_Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\GitHub_\Projeto_Cadastro_de_Series\DIO_Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
